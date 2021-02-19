@@ -4,6 +4,7 @@ Jan 29, 2021
 
 _Progress is possible only if we train ourselves to think about programs without think‐
 ing of them as pieces of executable code._
+
 —Edsger W. Dijkstra, August 1979
 
 A friend recently brought up Dijkstra who I best know for the Dijkstra Algorithm to calculate the shortest path in routing.  This goes back to my OSPF days when I was learning about networking.  It is a bit rusty but perfect time to revisit what I knew (or thought I knew).
