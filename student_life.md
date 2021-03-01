@@ -1,4 +1,4 @@
-Things to know to get ahead as a student
+*Things to know to get ahead as a student*
 
 
 _Marty Lobdell - Study Less Study Smart_
@@ -18,6 +18,11 @@ You don't find time, you make time and you make it by not doing anything else.
 
 Effective vs Efficient
 It is not just about effeciency rather about more effectiveness
+
+Actionable Items	
+	Get a day timer, digital one if possible
+	Book recommendations
+	Make this Steven Covey Chart
 
 _Randy Pausch - The Last Lecture (short ver)_
 https://www.youtube.com/watch?v=-Arnrxle4Gw
