@@ -1,4 +1,4 @@
-*Things to know to get ahead as a student*
+**Things to know to get ahead as a student**
 
 
 _Marty Lobdell - Study Less Study Smart_
