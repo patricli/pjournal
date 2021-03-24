@@ -2,9 +2,9 @@
 
 Q) How to get started in Tech?
 
-https://www.coursera.org/learn/build-a-computer#syllabus
-https://linkedin.github.io/school-of-sre/
-https://web.devopstopologies.com/
+https://www.coursera.org/learn/build-a-computer#syllabus \n
+https://linkedin.github.io/school-of-sre/ \n
+https://web.devopstopologies.com/ \n
 
 Q) Are certifications important?
 
