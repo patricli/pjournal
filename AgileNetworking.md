@@ -1,10 +1,10 @@
 **Can the networking team operate in the agile methology?**
 
-With the Agile principles stated as:
- Individuals and interactions over processes and tools
- Working software over comprehensive documentation
- Customer collaboration over contract negotiation
- Responding to change over following a plan
+With the Agile principles stated as: <br>
+ Individuals and interactions over processes and tools <br>
+ Working software over comprehensive documentation <br>
+ Customer collaboration over contract negotiation <br>
+ Responding to change over following a plan <br>
  
 I do believe as network engineers we have always tried to follow these principles.  Strong network engineers and architects have always been essential to solve networking challenges.  We rely on them to create the standard network designs and templates to be used wherever possible but also to have the knowledge of when to deviate from them.  
 
@@ -24,7 +24,7 @@ I feel there are definitely some aspects of the agile work process that are well
 
 
 
-Individuals and interactions over processes and tools
-Working software over comprehensive documentation
-Customer collaboration over contract negotiation
-Responding to change over following a plan
+Individuals and interactions over processes and tools <br>
+Working software over comprehensive documentation <br>
+Customer collaboration over contract negotiation <br>
+Responding to change over following a plan <br>
