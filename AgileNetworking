@@ -1,4 +1,4 @@
-*Can the networking team operate in the agile methology?*
+**Can the networking team operate in the agile methology?**
 
 With the Agile principles stated as:
  Individuals and interactions over processes and tools
@@ -15,9 +15,9 @@ Customer collaboration over contract negotiation - always try to do proper custo
 Responding to change over following a plan - see number 2.  Well, it depends.... networking should not be organic because it is a distributed system.  Standard templates allow for better design practices and more reliable maintenance and troubleshooting.  We try to follow the plan as much as possible but the plan is also designed with flexibility to allow for some different situations.  
  
 
-*Does that mean the network team acts as part of an agile cross functional team?*
+**Does that mean the network team acts as part of an agile cross functional team?**
 
-*Does that mean the network team builds networks in an agile method?*
+**Does that mean the network team builds networks in an agile method?**
 
 I feel there are definitely some aspects of the agile work process that are well incorporated with networking and other distributed platform services but other practices that apply well to an instance of an application that cannot be used on a broad platform service.
 
